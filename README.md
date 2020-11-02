@@ -23,6 +23,8 @@ I'm a College student and it was learning Web
 <a href="https://github.com/faqihakih">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faqihakih&show_icons=true&theme=white&line_height=27" alt="Faqihakih's github stats"/>
 </a>
+<br\>
+<br\>
 <!--
 **faqihakih/faqihakih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
